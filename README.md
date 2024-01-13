@@ -72,7 +72,7 @@ ps: The files tagged with gold are the final files we submit
   </tbody>
 </table>
 
-We didn't want Rank1 and Rank3, which would get good results on PB, and we didn't choose them for our final submission.
+We didn't want Rank1 and Rank3, which would get good results on LB, and we didn't choose them for our final submission.
 
 ## Thanks
 Thanks to my other four teammates for their hard work during the game， behind success often requires a huge amount of energy!!!
